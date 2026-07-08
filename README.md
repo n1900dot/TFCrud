@@ -12,6 +12,7 @@ A modern C++ framework for building terminal-based CRUD (Create, Read, Update, D
   - JSON file storage
   - SQLite database storage
   - In-memory repository
+  - And more ...
 - **Command Pattern**: Full undo/redo support via command manager
 - **Metadata System**: Reflection-based field metadata for automatic form generation
 - **Validation**: Built-in validators (required fields, range validation)

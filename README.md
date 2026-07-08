@@ -1,4 +1,4 @@
-# TFCrud - C++ CRUD Framework
+# TFCrud  Generic Terminal CRUD Framework (c++)
 
 > ⚠️ **Warning**: This project is undergoing major updates and is not ready for production use.
 
